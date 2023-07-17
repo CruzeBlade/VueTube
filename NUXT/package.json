@@ -10,7 +10,7 @@
     "lint": "eslint --fix --ext .js,.vue --ignore-path .eslintignore ."
   },
   "dependencies": {
-    "@capacitor/splash-screen": "^1.2.2",
+    "@capacitor/splash-screen": "^5.0.6",
     "@capacitor/status-bar": "^1.0.8",
     "core-js": "^3.25.0",
     "nuxt": "^2.15.8",
